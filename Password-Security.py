@@ -6,11 +6,11 @@ import pyperclip
 import re
 
 password = {
-    'Gmail': 'Firefighter125',
-    'Facebook': 'Omer125',
-	'Upwork': 'S825ajkfa2',
-	'JetBrain':'Hx2539yh',
-    'wisdomjobsgulf':'X8cskds5'
+    'Gmail': 'fjy5gjkj',
+    'Facebook': 'mek8hxxhhgr',
+	'Upwork': 'shhdddd',
+	'JetBrain':'2dgg3477989yh',
+    'wisdomjobsgulf':'Xchhg2kds5'
 }
 
 if len(sys.argv) < 2:
