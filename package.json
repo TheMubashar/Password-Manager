@@ -1,0 +1,28 @@
+{
+  "name": "td-toolchain",
+  "version": "1.0.0",
+  "description": "TestDriver.ai test suite",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:ui": "vitest --ui"
+  },
+  "keywords": [
+    "testdriver",
+    "testing",
+    "e2e"
+  ],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=20.19.0"
+  },
+  "devDependencies": {
+    "testdriverai": "^7.11.281-canary",
+    "vitest": "^5.1.0"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.10"
+  }
+}
